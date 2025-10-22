@@ -2,9 +2,14 @@
 
     <PropertyGroup>
         <TargetFramework>net9.0</TargetFramework>
-        <RootNamespace>MetaV5_ClassLibary</RootNamespace>
+        <RootNamespace>MetaV5</RootNamespace>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <AssemblyName>MetaV5</AssemblyName>
+        <PackageId>MetaV5</PackageId>
+        <Authors>MetaV5, Eetsu.</Authors>
+        <Company>Eetsu</Company>
+        <Product>Eetsu</Product>
     </PropertyGroup>
 
 </Project>

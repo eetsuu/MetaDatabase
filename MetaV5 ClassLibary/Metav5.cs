@@ -4,7 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Text.Json;
 
-namespace MetaDB
+namespace MetaV5
 {
     public enum FieldType { String, Number }
 
